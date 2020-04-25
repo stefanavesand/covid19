@@ -1,4 +1,4 @@
-# voila-covid19-viewer
+# covid19
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanavesand/covid19/master?urlpath=voila%2Frender%2Findex.ipynb)
 
 Experimental web app built with Jupyter, ipywidgets, ipyleaflet, plot.ly and voila for visualization of COVID-19 trends.
