@@ -3,7 +3,7 @@
 
 Experimental web app built with Jupyter, ipywidgets, ipyleaflet, plot.ly and voila for visualization of COVID-19 trends.
 
-![image](https://user-images.githubusercontent.com/6136323/80288808-87706680-8708-11ea-8890-595b89cb1170.png)
+![image](https://user-images.githubusercontent.com/6136323/80289963-382e3400-8710-11ea-9589-3af7c1f018c9.png)
 
 ## Usage
 
