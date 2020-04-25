@@ -1,3 +1,18 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanavesand/covid19/master)
+# voila-covid19-viewer
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stefanavesand/covid19/master?urlpath=voila%2Frender%2Findex.ipynb)
 
-Testing out Voila with ipywidgets for building dashboard.
+Experimental web app built with Jupyter, ipywidgets, ipyleaflet, plot.ly and voila for visualization of COVID-19 trends.
+
+![image](https://user-images.githubusercontent.com/6136323/80288808-87706680-8708-11ea-8890-595b89cb1170.png)
+
+## Usage
+
+```bash
+voila index.ipynb
+```
+
+To automatically cull idle kernels:
+
+```bash
+voila --MappingKernelManager.cull_interval=10 --MappingKernelManager.cull_idle_timeout=10 app.ipynb
+```
