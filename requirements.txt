@@ -11,5 +11,6 @@ numpy==1.18.*
 pandas==1.0.*
 plotly==4.6.*
 voila==0.1.*
+voila-material
 widgetsnbextension==3.5.*
 xlrd==1.2.*
